@@ -1,5 +1,5 @@
 # Static HTML & CSS Google Search Clone
-A static HTML and CSS Google Search Clone website for CS50's Web Programming with Python and JavaScript Project 0.
+First project of CS50’s Web Programming with Python and JavaScript - A static HTML and CSS Google Search Clone website.
 
 ## Features
 - Search bar for query input.
