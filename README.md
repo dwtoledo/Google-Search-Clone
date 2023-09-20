@@ -1,6 +1,9 @@
 # Static HTML & CSS Google Search Clone
 First project of CS50’s Web Programming with Python and JavaScript - A static HTML and CSS Google Search Clone website.
 
+## Layout
+![Screenshot 2023-09-20 162851](https://github.com/dwtoledo/project0-googlesearch/assets/11148858/69988044-bd94-421c-bb01-299f1f20df77)
+
 ## Features
 - Search bar for query input.
 - "I'm Feeling Lucky" button.
